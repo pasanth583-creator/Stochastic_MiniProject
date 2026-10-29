@@ -1,0 +1,6 @@
+policy,mean_cost,std,p95,cvar90
+Naive rule,57832.8,13734.4,85961.4,86667.2
+Deterministic (EV),57120.5,14219.3,86097.8,86583.7
+Stochastic (risk-neutral),56798.4,14124.3,85762.7,86291.3
+"Stochastic (mean-CVaR, lam=0.5)",62337.1,7447.5,73958.0,75812.5
+Perfect information (wait-and-see),50393.6,13798.4,73015.1,73310.9
